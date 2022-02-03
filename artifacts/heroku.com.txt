@@ -1,0 +1,6 @@
+Create Heroku Account for Hosting NodeJs Backend application
+-----------------------------
+
+Install Heroku
+
+https://cli-assets.heroku.com/heroku-x64.exe
